@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Starting with Swift Strings"
-date:   2022-04-03
+date:   2022-04-03 14:33:17 +1300
 categories: swift strings
 ---
 
